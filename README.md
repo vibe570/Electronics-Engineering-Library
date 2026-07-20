@@ -20,7 +20,6 @@ Covers high-speed digital circuit design, signal integrity, and high-frequency b
 ### 📁 [03_Embedded_Systems](./03_Embedded_Systems/)
 Includes documentation for microcontrollers, hardware platform specifications, and embedded architecture:
 * **Embedded System Design**
-* **Jetson Orin Nano DevKit Carrier Board Specification** — *NVIDIA*
 
 ### 📁 [04_Electrical_Engineering](./04_Electrical_Engineering/)
 Comprehensive textbooks on general electrical engineering concepts and principles:
